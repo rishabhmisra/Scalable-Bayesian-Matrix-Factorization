@@ -1,0 +1,1 @@
+./libFM -task r -train /home/avijit/Downloads/libfm-master/data/ua.base_libfm  -test /home/avijit/Downloads/libfm-master/data/ua.test_libfm -dim '1,1,1000'
